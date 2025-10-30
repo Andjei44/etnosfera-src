@@ -1,7 +1,7 @@
 # Этносфера Бот
 
 <p align="center">
-  <img src="[https://via.placeholder.com/600x300?text=Этносфера+Бот](https://raw.githubusercontent.com/Andjei44/etnosfera-src/refs/heads/main/README_files/banner.jpg)" alt="Этносфера Бот">
+  <img src="https://raw.githubusercontent.com/Andjei44/etnosfera-src/refs/heads/main/README_files/banner.jpg" alt="Этносфера Бот">
 </p>
 
 <p align="center">
