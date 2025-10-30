@@ -1,11 +1,11 @@
 # Этносфера Бот
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Этносфера+Бот" alt="Этносфера Бот">
+  <img src="[https://via.placeholder.com/600x300?text=Этносфера+Бот](https://raw.githubusercontent.com/Andjei44/etnosfera-src/refs/heads/main/README_files/banner.jpg)" alt="Этносфера Бот">
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/etnosfera-bot/actions">
+  <a href="https://github.com/Andjei44/etnosfera-bot/actions">
     <img src="https://github.com/yourusername/etnosfera-bot/workflows/Deploy/badge.svg" alt="Build Status">
   </a>
   <a href="https://github.com/yourusername/etnosfera-bot/blob/main/LICENSE">
